@@ -115,9 +115,9 @@ void BattleState::doIt() {
         {
             botTurn();
             game.checkGameState();
+            game.output.clear();
         }
 
-        game.output.clear();
         game.output.displayFields(game.human.field, game.bot.field);
 
         // std::cout << "\n--Debug--\n";

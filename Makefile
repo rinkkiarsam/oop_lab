@@ -5,7 +5,7 @@ SRC_DIR = ./source/
 INCLUDE_DIR = ./include/
 BIN_DIR = ./bin/
 
-CXXFLAGS =-g -I$(INCLUDE_DIR) -Wall -pedantic 
+CXXFLAGS = -I$(INCLUDE_DIR) -Wall -pedantic 
 
 SRC = $(wildcard $(SRC_DIR)*.cpp)
 
