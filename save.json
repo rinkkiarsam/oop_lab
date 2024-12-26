@@ -1,0 +1,1175 @@
+{
+    "bot player": {
+        "damage multiplier": -1037918752,
+        "field": {
+            "cells": [
+                [
+                    {
+                        "segment index": -1,
+                        "ship": null,
+                        "state": 1
+                    },
+                    {
+                        "segment index": -1,
+                        "ship": null,
+                        "state": 0
+                    },
+                    {
+                        "segment index": -1,
+                        "ship": null,
+                        "state": 0
+                    },
+                    {
+                        "segment index": -1,
+                        "ship": null,
+                        "state": 0
+                    },
+                    {
+                        "segment index": -1,
+                        "ship": null,
+                        "state": 0
+                    },
+                    {
+                        "segment index": -1,
+                        "ship": null,
+                        "state": 0
+                    },
+                    {
+                        "segment index": -1,
+                        "ship": null,
+                        "state": 0
+                    },
+                    {
+                        "segment index": -1,
+                        "ship": null,
+                        "state": 0
+                    }
+                ],
+                [
+                    {
+                        "segment index": 0,
+                        "ship": {
+                            "r": 1,
+                            "segment states": [
+                                2,
+                                2,
+                                2,
+                                2
+                            ],
+                            "x": 1,
+                            "y": 0
+                        },
+                        "state": 0
+                    },
+                    {
+                        "segment index": 1,
+                        "ship": {
+                            "r": 1,
+                            "segment states": [
+                                2,
+                                2,
+                                2,
+                                2
+                            ],
+                            "x": 1,
+                            "y": 0
+                        },
+                        "state": 0
+                    },
+                    {
+                        "segment index": 2,
+                        "ship": {
+                            "r": 1,
+                            "segment states": [
+                                2,
+                                2,
+                                2,
+                                2
+                            ],
+                            "x": 1,
+                            "y": 0
+                        },
+                        "state": 0
+                    },
+                    {
+                        "segment index": 3,
+                        "ship": {
+                            "r": 1,
+                            "segment states": [
+                                2,
+                                2,
+                                2,
+                                2
+                            ],
+                            "x": 1,
+                            "y": 0
+                        },
+                        "state": 0
+                    },
+                    {
+                        "segment index": -1,
+                        "ship": null,
+                        "state": 0
+                    },
+                    {
+                        "segment index": -1,
+                        "ship": null,
+                        "state": 0
+                    },
+                    {
+                        "segment index": -1,
+                        "ship": null,
+                        "state": 0
+                    },
+                    {
+                        "segment index": -1,
+                        "ship": null,
+                        "state": 0
+                    }
+                ],
+                [
+                    {
+                        "segment index": -1,
+                        "ship": null,
+                        "state": 0
+                    },
+                    {
+                        "segment index": -1,
+                        "ship": null,
+                        "state": 0
+                    },
+                    {
+                        "segment index": -1,
+                        "ship": null,
+                        "state": 0
+                    },
+                    {
+                        "segment index": -1,
+                        "ship": null,
+                        "state": 0
+                    },
+                    {
+                        "segment index": -1,
+                        "ship": null,
+                        "state": 0
+                    },
+                    {
+                        "segment index": -1,
+                        "ship": null,
+                        "state": 0
+                    },
+                    {
+                        "segment index": -1,
+                        "ship": null,
+                        "state": 0
+                    },
+                    {
+                        "segment index": -1,
+                        "ship": null,
+                        "state": 0
+                    }
+                ],
+                [
+                    {
+                        "segment index": -1,
+                        "ship": null,
+                        "state": 0
+                    },
+                    {
+                        "segment index": 0,
+                        "ship": {
+                            "r": 1,
+                            "segment states": [
+                                2,
+                                2,
+                                2,
+                                2
+                            ],
+                            "x": 3,
+                            "y": 1
+                        },
+                        "state": 0
+                    },
+                    {
+                        "segment index": 1,
+                        "ship": {
+                            "r": 1,
+                            "segment states": [
+                                2,
+                                2,
+                                2,
+                                2
+                            ],
+                            "x": 3,
+                            "y": 1
+                        },
+                        "state": 0
+                    },
+                    {
+                        "segment index": 2,
+                        "ship": {
+                            "r": 1,
+                            "segment states": [
+                                2,
+                                2,
+                                2,
+                                2
+                            ],
+                            "x": 3,
+                            "y": 1
+                        },
+                        "state": 0
+                    },
+                    {
+                        "segment index": 3,
+                        "ship": {
+                            "r": 1,
+                            "segment states": [
+                                2,
+                                2,
+                                2,
+                                2
+                            ],
+                            "x": 3,
+                            "y": 1
+                        },
+                        "state": 0
+                    },
+                    {
+                        "segment index": -1,
+                        "ship": null,
+                        "state": 0
+                    },
+                    {
+                        "segment index": 0,
+                        "ship": {
+                            "r": 1,
+                            "segment states": [
+                                2
+                            ],
+                            "x": 3,
+                            "y": 6
+                        },
+                        "state": 0
+                    },
+                    {
+                        "segment index": -1,
+                        "ship": null,
+                        "state": 0
+                    }
+                ],
+                [
+                    {
+                        "segment index": -1,
+                        "ship": null,
+                        "state": 0
+                    },
+                    {
+                        "segment index": -1,
+                        "ship": null,
+                        "state": 0
+                    },
+                    {
+                        "segment index": -1,
+                        "ship": null,
+                        "state": 0
+                    },
+                    {
+                        "segment index": -1,
+                        "ship": null,
+                        "state": 0
+                    },
+                    {
+                        "segment index": -1,
+                        "ship": null,
+                        "state": 0
+                    },
+                    {
+                        "segment index": -1,
+                        "ship": null,
+                        "state": 0
+                    },
+                    {
+                        "segment index": -1,
+                        "ship": null,
+                        "state": 0
+                    },
+                    {
+                        "segment index": -1,
+                        "ship": null,
+                        "state": 0
+                    }
+                ],
+                [
+                    {
+                        "segment index": -1,
+                        "ship": null,
+                        "state": 0
+                    },
+                    {
+                        "segment index": -1,
+                        "ship": null,
+                        "state": 0
+                    },
+                    {
+                        "segment index": 0,
+                        "ship": {
+                            "r": 1,
+                            "segment states": [
+                                2,
+                                2,
+                                2,
+                                2
+                            ],
+                            "x": 5,
+                            "y": 2
+                        },
+                        "state": 0
+                    },
+                    {
+                        "segment index": 1,
+                        "ship": {
+                            "r": 1,
+                            "segment states": [
+                                2,
+                                2,
+                                2,
+                                2
+                            ],
+                            "x": 5,
+                            "y": 2
+                        },
+                        "state": 0
+                    },
+                    {
+                        "segment index": 2,
+                        "ship": {
+                            "r": 1,
+                            "segment states": [
+                                2,
+                                2,
+                                2,
+                                2
+                            ],
+                            "x": 5,
+                            "y": 2
+                        },
+                        "state": 0
+                    },
+                    {
+                        "segment index": 3,
+                        "ship": {
+                            "r": 1,
+                            "segment states": [
+                                2,
+                                2,
+                                2,
+                                2
+                            ],
+                            "x": 5,
+                            "y": 2
+                        },
+                        "state": 0
+                    },
+                    {
+                        "segment index": -1,
+                        "ship": null,
+                        "state": 0
+                    },
+                    {
+                        "segment index": -1,
+                        "ship": null,
+                        "state": 0
+                    }
+                ],
+                [
+                    {
+                        "segment index": -1,
+                        "ship": null,
+                        "state": 0
+                    },
+                    {
+                        "segment index": -1,
+                        "ship": null,
+                        "state": 0
+                    },
+                    {
+                        "segment index": -1,
+                        "ship": null,
+                        "state": 0
+                    },
+                    {
+                        "segment index": -1,
+                        "ship": null,
+                        "state": 0
+                    },
+                    {
+                        "segment index": -1,
+                        "ship": null,
+                        "state": 0
+                    },
+                    {
+                        "segment index": -1,
+                        "ship": null,
+                        "state": 0
+                    },
+                    {
+                        "segment index": -1,
+                        "ship": null,
+                        "state": 0
+                    },
+                    {
+                        "segment index": -1,
+                        "ship": null,
+                        "state": 0
+                    }
+                ],
+                [
+                    {
+                        "segment index": 0,
+                        "ship": {
+                            "r": 1,
+                            "segment states": [
+                                2,
+                                2,
+                                2,
+                                2
+                            ],
+                            "x": 7,
+                            "y": 0
+                        },
+                        "state": 0
+                    },
+                    {
+                        "segment index": 1,
+                        "ship": {
+                            "r": 1,
+                            "segment states": [
+                                2,
+                                2,
+                                2,
+                                2
+                            ],
+                            "x": 7,
+                            "y": 0
+                        },
+                        "state": 0
+                    },
+                    {
+                        "segment index": 2,
+                        "ship": {
+                            "r": 1,
+                            "segment states": [
+                                2,
+                                2,
+                                2,
+                                2
+                            ],
+                            "x": 7,
+                            "y": 0
+                        },
+                        "state": 0
+                    },
+                    {
+                        "segment index": 3,
+                        "ship": {
+                            "r": 1,
+                            "segment states": [
+                                2,
+                                2,
+                                2,
+                                2
+                            ],
+                            "x": 7,
+                            "y": 0
+                        },
+                        "state": 0
+                    },
+                    {
+                        "segment index": -1,
+                        "ship": null,
+                        "state": 0
+                    },
+                    {
+                        "segment index": -1,
+                        "ship": null,
+                        "state": 0
+                    },
+                    {
+                        "segment index": -1,
+                        "ship": null,
+                        "state": 0
+                    },
+                    {
+                        "segment index": 0,
+                        "ship": {
+                            "r": 0,
+                            "segment states": [
+                                2
+                            ],
+                            "x": 7,
+                            "y": 7
+                        },
+                        "state": 0
+                    }
+                ]
+            ],
+            "height": 8,
+            "width": 8
+        },
+        "ship manager": {
+            "active ships": [
+                {
+                    "r": 1,
+                    "segment states": [
+                        2,
+                        2,
+                        2,
+                        2
+                    ],
+                    "x": 3,
+                    "y": 1
+                },
+                {
+                    "r": 1,
+                    "segment states": [
+                        2,
+                        2,
+                        2,
+                        2
+                    ],
+                    "x": 5,
+                    "y": 2
+                },
+                {
+                    "r": 1,
+                    "segment states": [
+                        2,
+                        2,
+                        2,
+                        2
+                    ],
+                    "x": 1,
+                    "y": 0
+                },
+                {
+                    "r": 1,
+                    "segment states": [
+                        2,
+                        2,
+                        2,
+                        2
+                    ],
+                    "x": 7,
+                    "y": 0
+                },
+                {
+                    "r": 1,
+                    "segment states": [
+                        2
+                    ],
+                    "x": 3,
+                    "y": 6
+                },
+                {
+                    "r": 0,
+                    "segment states": [
+                        2
+                    ],
+                    "x": 7,
+                    "y": 7
+                }
+            ],
+            "passive ships": []
+        }
+    },
+    "human player": {
+        "ability manager": [
+            1,
+            0,
+            2
+        ],
+        "damage multiplier": -1037918752,
+        "field": {
+            "cells": [
+                [
+                    {
+                        "segment index": 0,
+                        "ship": {
+                            "r": 0,
+                            "segment states": [
+                                2,
+                                2,
+                                2,
+                                2
+                            ],
+                            "x": 0,
+                            "y": 0
+                        },
+                        "state": 0
+                    },
+                    {
+                        "segment index": -1,
+                        "ship": null,
+                        "state": 0
+                    },
+                    {
+                        "segment index": 0,
+                        "ship": {
+                            "r": 0,
+                            "segment states": [
+                                2,
+                                2,
+                                2,
+                                2
+                            ],
+                            "x": 0,
+                            "y": 2
+                        },
+                        "state": 0
+                    },
+                    {
+                        "segment index": -1,
+                        "ship": null,
+                        "state": 0
+                    },
+                    {
+                        "segment index": 0,
+                        "ship": {
+                            "r": 0,
+                            "segment states": [
+                                2,
+                                2,
+                                2,
+                                2
+                            ],
+                            "x": 0,
+                            "y": 4
+                        },
+                        "state": 0
+                    },
+                    {
+                        "segment index": -1,
+                        "ship": null,
+                        "state": 0
+                    },
+                    {
+                        "segment index": 0,
+                        "ship": {
+                            "r": 0,
+                            "segment states": [
+                                2,
+                                2,
+                                2,
+                                2
+                            ],
+                            "x": 0,
+                            "y": 6
+                        },
+                        "state": 0
+                    },
+                    {
+                        "segment index": -1,
+                        "ship": null,
+                        "state": 0
+                    }
+                ],
+                [
+                    {
+                        "segment index": 1,
+                        "ship": {
+                            "r": 0,
+                            "segment states": [
+                                2,
+                                2,
+                                2,
+                                2
+                            ],
+                            "x": 0,
+                            "y": 0
+                        },
+                        "state": 0
+                    },
+                    {
+                        "segment index": -1,
+                        "ship": null,
+                        "state": 1
+                    },
+                    {
+                        "segment index": 1,
+                        "ship": {
+                            "r": 0,
+                            "segment states": [
+                                2,
+                                2,
+                                2,
+                                2
+                            ],
+                            "x": 0,
+                            "y": 2
+                        },
+                        "state": 0
+                    },
+                    {
+                        "segment index": -1,
+                        "ship": null,
+                        "state": 0
+                    },
+                    {
+                        "segment index": 1,
+                        "ship": {
+                            "r": 0,
+                            "segment states": [
+                                2,
+                                2,
+                                2,
+                                2
+                            ],
+                            "x": 0,
+                            "y": 4
+                        },
+                        "state": 0
+                    },
+                    {
+                        "segment index": -1,
+                        "ship": null,
+                        "state": 0
+                    },
+                    {
+                        "segment index": 1,
+                        "ship": {
+                            "r": 0,
+                            "segment states": [
+                                2,
+                                2,
+                                2,
+                                2
+                            ],
+                            "x": 0,
+                            "y": 6
+                        },
+                        "state": 0
+                    },
+                    {
+                        "segment index": -1,
+                        "ship": null,
+                        "state": 0
+                    }
+                ],
+                [
+                    {
+                        "segment index": 2,
+                        "ship": {
+                            "r": 0,
+                            "segment states": [
+                                2,
+                                2,
+                                2,
+                                2
+                            ],
+                            "x": 0,
+                            "y": 0
+                        },
+                        "state": 0
+                    },
+                    {
+                        "segment index": -1,
+                        "ship": null,
+                        "state": 0
+                    },
+                    {
+                        "segment index": 2,
+                        "ship": {
+                            "r": 0,
+                            "segment states": [
+                                2,
+                                2,
+                                2,
+                                2
+                            ],
+                            "x": 0,
+                            "y": 2
+                        },
+                        "state": 0
+                    },
+                    {
+                        "segment index": -1,
+                        "ship": null,
+                        "state": 0
+                    },
+                    {
+                        "segment index": 2,
+                        "ship": {
+                            "r": 0,
+                            "segment states": [
+                                2,
+                                2,
+                                2,
+                                2
+                            ],
+                            "x": 0,
+                            "y": 4
+                        },
+                        "state": 0
+                    },
+                    {
+                        "segment index": -1,
+                        "ship": null,
+                        "state": 0
+                    },
+                    {
+                        "segment index": 2,
+                        "ship": {
+                            "r": 0,
+                            "segment states": [
+                                2,
+                                2,
+                                2,
+                                2
+                            ],
+                            "x": 0,
+                            "y": 6
+                        },
+                        "state": 0
+                    },
+                    {
+                        "segment index": -1,
+                        "ship": null,
+                        "state": 0
+                    }
+                ],
+                [
+                    {
+                        "segment index": 3,
+                        "ship": {
+                            "r": 0,
+                            "segment states": [
+                                2,
+                                2,
+                                2,
+                                2
+                            ],
+                            "x": 0,
+                            "y": 0
+                        },
+                        "state": 0
+                    },
+                    {
+                        "segment index": -1,
+                        "ship": null,
+                        "state": 0
+                    },
+                    {
+                        "segment index": 3,
+                        "ship": {
+                            "r": 0,
+                            "segment states": [
+                                2,
+                                2,
+                                2,
+                                2
+                            ],
+                            "x": 0,
+                            "y": 2
+                        },
+                        "state": 0
+                    },
+                    {
+                        "segment index": -1,
+                        "ship": null,
+                        "state": 0
+                    },
+                    {
+                        "segment index": 3,
+                        "ship": {
+                            "r": 0,
+                            "segment states": [
+                                2,
+                                2,
+                                2,
+                                2
+                            ],
+                            "x": 0,
+                            "y": 4
+                        },
+                        "state": 0
+                    },
+                    {
+                        "segment index": -1,
+                        "ship": null,
+                        "state": 0
+                    },
+                    {
+                        "segment index": 3,
+                        "ship": {
+                            "r": 0,
+                            "segment states": [
+                                2,
+                                2,
+                                2,
+                                2
+                            ],
+                            "x": 0,
+                            "y": 6
+                        },
+                        "state": 0
+                    },
+                    {
+                        "segment index": -1,
+                        "ship": null,
+                        "state": 0
+                    }
+                ],
+                [
+                    {
+                        "segment index": -1,
+                        "ship": null,
+                        "state": 0
+                    },
+                    {
+                        "segment index": -1,
+                        "ship": null,
+                        "state": 0
+                    },
+                    {
+                        "segment index": -1,
+                        "ship": null,
+                        "state": 0
+                    },
+                    {
+                        "segment index": -1,
+                        "ship": null,
+                        "state": 0
+                    },
+                    {
+                        "segment index": -1,
+                        "ship": null,
+                        "state": 0
+                    },
+                    {
+                        "segment index": -1,
+                        "ship": null,
+                        "state": 0
+                    },
+                    {
+                        "segment index": -1,
+                        "ship": null,
+                        "state": 0
+                    },
+                    {
+                        "segment index": -1,
+                        "ship": null,
+                        "state": 0
+                    }
+                ],
+                [
+                    {
+                        "segment index": -1,
+                        "ship": null,
+                        "state": 0
+                    },
+                    {
+                        "segment index": -1,
+                        "ship": null,
+                        "state": 0
+                    },
+                    {
+                        "segment index": -1,
+                        "ship": null,
+                        "state": 0
+                    },
+                    {
+                        "segment index": -1,
+                        "ship": null,
+                        "state": 0
+                    },
+                    {
+                        "segment index": -1,
+                        "ship": null,
+                        "state": 0
+                    },
+                    {
+                        "segment index": -1,
+                        "ship": null,
+                        "state": 0
+                    },
+                    {
+                        "segment index": -1,
+                        "ship": null,
+                        "state": 0
+                    },
+                    {
+                        "segment index": -1,
+                        "ship": null,
+                        "state": 0
+                    }
+                ],
+                [
+                    {
+                        "segment index": -1,
+                        "ship": null,
+                        "state": 0
+                    },
+                    {
+                        "segment index": -1,
+                        "ship": null,
+                        "state": 0
+                    },
+                    {
+                        "segment index": -1,
+                        "ship": null,
+                        "state": 0
+                    },
+                    {
+                        "segment index": -1,
+                        "ship": null,
+                        "state": 0
+                    },
+                    {
+                        "segment index": 0,
+                        "ship": {
+                            "r": 0,
+                            "segment states": [
+                                2
+                            ],
+                            "x": 6,
+                            "y": 4
+                        },
+                        "state": 0
+                    },
+                    {
+                        "segment index": -1,
+                        "ship": null,
+                        "state": 0
+                    },
+                    {
+                        "segment index": 0,
+                        "ship": {
+                            "r": 0,
+                            "segment states": [
+                                2
+                            ],
+                            "x": 6,
+                            "y": 6
+                        },
+                        "state": 0
+                    },
+                    {
+                        "segment index": -1,
+                        "ship": null,
+                        "state": 0
+                    }
+                ],
+                [
+                    {
+                        "segment index": -1,
+                        "ship": null,
+                        "state": 0
+                    },
+                    {
+                        "segment index": -1,
+                        "ship": null,
+                        "state": 0
+                    },
+                    {
+                        "segment index": -1,
+                        "ship": null,
+                        "state": 0
+                    },
+                    {
+                        "segment index": -1,
+                        "ship": null,
+                        "state": 0
+                    },
+                    {
+                        "segment index": -1,
+                        "ship": null,
+                        "state": 0
+                    },
+                    {
+                        "segment index": -1,
+                        "ship": null,
+                        "state": 0
+                    },
+                    {
+                        "segment index": -1,
+                        "ship": null,
+                        "state": 0
+                    },
+                    {
+                        "segment index": -1,
+                        "ship": null,
+                        "state": 0
+                    }
+                ]
+            ],
+            "height": 8,
+            "width": 8
+        },
+        "ship manager": {
+            "active ships": [
+                {
+                    "r": 0,
+                    "segment states": [
+                        2,
+                        2,
+                        2,
+                        2
+                    ],
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "r": 0,
+                    "segment states": [
+                        2,
+                        2,
+                        2,
+                        2
+                    ],
+                    "x": 0,
+                    "y": 2
+                },
+                {
+                    "r": 0,
+                    "segment states": [
+                        2,
+                        2,
+                        2,
+                        2
+                    ],
+                    "x": 0,
+                    "y": 4
+                },
+                {
+                    "r": 0,
+                    "segment states": [
+                        2,
+                        2,
+                        2,
+                        2
+                    ],
+                    "x": 0,
+                    "y": 6
+                },
+                {
+                    "r": 0,
+                    "segment states": [
+                        2
+                    ],
+                    "x": 6,
+                    "y": 6
+                },
+                {
+                    "r": 0,
+                    "segment states": [
+                        2
+                    ],
+                    "x": 6,
+                    "y": 4
+                }
+            ],
+            "passive ships": []
+        }
+    }
+}
