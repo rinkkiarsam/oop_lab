@@ -40,12 +40,10 @@ void CLGameOutput::abilityMsg(AbilityType ability_type, bool flag)
 
     if (flag)
     {
-        clear();
         std::cout << "Scanner found a ship!\n"; 
     }
     else
     {
-        clear();
         std::cout << "Scanner did not find any ships...\n";
     }
 }

@@ -66,70 +66,7 @@ void BattleState::castAbility()
     }
 }
 
-void BattleState::doIt() {
-    while (game.is_running 
-           and !getPlayer().ship_manager.allShipsAreSunk()
-           and !getBot().ship_manager.allShipsAreSunk())
-    {
-        if (curr_turn == Turn::human)
-        {
-            auto act = game.input.inputAction();
-            switch (act)
-            {
-                case action::primary_action:
-                {
-                    humanTurn();
-                    break;
-                }
-                case action::secondary_action:
-                {
-                    castAbility();
-                    break;
-                }
-                case action::save:
-                {   
-                    save(game.input.inputString());
-                    break;
-                }
-                case action::load:
-                {
-                    load(game.input.inputString());
-                    break;
-                }
-                case action::quit:
-                {
-                    game.quit();
-                    break;
-                }
-                case action::restart:
-                {
-                    game.startNewGame();
-                    break;
-                }
-                default: game.output.logMsg("Invalid input. Try again!");
-            }
-
-            game.checkGameState();
-        }
-        else
-        {
-            botTurn();
-            game.checkGameState();
-            game.output.clear();
-        }
-
-        game.output.displayFields(game.human.field, game.bot.field);
-
-        // std::cout << "\n--Debug--\n";
-        // game.output.displayFieldNoFog(game.bot.field);
-        // std::cout << '\n';
-        // game.output.displayShipManager(game.bot.ship_manager);
-        // std::cout << "\n--Debug--\n";
-
-        game.output.displayBuff(game.human.damage_multiplier == 2 ? true : false);
-    }
-    std::cout << "\n\nrework\n\n";
-}
+void BattleState::doIt() {}
 
 Turn BattleState::getTurn()
 {
