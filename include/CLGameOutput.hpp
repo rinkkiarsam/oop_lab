@@ -24,13 +24,10 @@ public:
     void abilityMsg(AbilityType ability_type);
     void abilityMsg(AbilityType ability_type, bool flag);
     void logMsg(std::string_view msg);
-    void initMsg(GameState* current_state, int x, int y = -1);
-    void coordinatesMsg(int x, int y);
     void displayFieldNoFog(Field& field);
     void displayField(Field& field);
     void displayFields(Field& friend_field, Field& foe_field);
     void displayNums(const std::vector<int>& nums);
-    // const std::string numToColour(int num) const;
     void displayBuff(bool flag) const;
     void displayShipManager(ShipManager& ship_manager);
     void clear();

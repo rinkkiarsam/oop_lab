@@ -18,7 +18,6 @@ public:
     }
     void render();
     void renderAttack();
-    void update();
     void renderMsg(std::string_view msg);
     void renderAbilityMsg(std::string_view msg);
     void renderAbilityResMsg(std::string_view msg, bool res);
@@ -63,12 +62,6 @@ template <class Output>
 void GameRenderer<Output>::renderAbilityResMsg(std::string_view msg, bool res)
 {
     output.abilityMsg(msg, res);
-}
-
-template <class Output>
-void GameRenderer<Output>::update()
-{
-    render();
 }
 
 

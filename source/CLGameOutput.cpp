@@ -48,11 +48,6 @@ void CLGameOutput::abilityMsg(AbilityType ability_type, bool flag)
     }
 }
 
-void CLGameOutput::coordinatesMsg(int x, int y)
-{
-    std::cout << "x = " << x << " y = " << y << '\n';
-}
-
 void CLGameOutput::logMsg(std::string_view msg)
 {
     std::cout << msg << '\n';
@@ -146,10 +141,6 @@ void CLGameOutput::displayBuff(bool flag) const
     {
         std::cout << "Active: double damage buff\n";
     }
-}
-
-void CLGameOutput::initMsg(GameState* current_state, int x, int y)
-{
 }
 
 void CLGameOutput::displayFields(Field& friend_field, Field& foe_field)
