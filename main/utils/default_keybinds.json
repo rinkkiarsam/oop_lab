@@ -1,8 +1,0 @@
-{
-    "a" : "primary_action",
-    "c" : "secondary_action",
-    "s" : "save",
-    "l" : "load",
-    "r" : "start_new_game",
-    "q" : "quit"
-}
