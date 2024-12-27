@@ -3,7 +3,6 @@
 #include "GameController.hpp"
 
 
-// Починить вывод сканера и других абилок бебебеб
 int main()
 {
     try 
